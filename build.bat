@@ -1,0 +1,1 @@
+python -m nuitka --follow-imports --enable-plugin=numpy --include-package=pytesseract --windows-icon-from-ico=./kuslogo.ico --standalone ID_Recog.py
